@@ -1,0 +1,14 @@
+D:\.net devoir\GenericDevoir\GenericTask2\bin\Debug\net8.0\GenericTask2.exe
+D:\.net devoir\GenericDevoir\GenericTask2\bin\Debug\net8.0\GenericTask2.deps.json
+D:\.net devoir\GenericDevoir\GenericTask2\bin\Debug\net8.0\GenericTask2.runtimeconfig.json
+D:\.net devoir\GenericDevoir\GenericTask2\bin\Debug\net8.0\GenericTask2.dll
+D:\.net devoir\GenericDevoir\GenericTask2\bin\Debug\net8.0\GenericTask2.pdb
+D:\.net devoir\GenericDevoir\GenericTask2\obj\Debug\net8.0\GenericTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net devoir\GenericDevoir\GenericTask2\obj\Debug\net8.0\GenericTask2.AssemblyInfoInputs.cache
+D:\.net devoir\GenericDevoir\GenericTask2\obj\Debug\net8.0\GenericTask2.AssemblyInfo.cs
+D:\.net devoir\GenericDevoir\GenericTask2\obj\Debug\net8.0\GenericTask2.csproj.CoreCompileInputs.cache
+D:\.net devoir\GenericDevoir\GenericTask2\obj\Debug\net8.0\GenericTask2.dll
+D:\.net devoir\GenericDevoir\GenericTask2\obj\Debug\net8.0\refint\GenericTask2.dll
+D:\.net devoir\GenericDevoir\GenericTask2\obj\Debug\net8.0\GenericTask2.pdb
+D:\.net devoir\GenericDevoir\GenericTask2\obj\Debug\net8.0\GenericTask2.genruntimeconfig.cache
+D:\.net devoir\GenericDevoir\GenericTask2\obj\Debug\net8.0\ref\GenericTask2.dll
